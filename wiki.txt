@@ -7,4 +7,5 @@ Tiimisisene tööjaotus: mõlemad teevad kaks vahelehte kahe youtuberi kohta
 
 Senised raskused:
 	teema valimine
+	git'i kasutama Õppimine
 	git'i kasutamisega harjumine 
