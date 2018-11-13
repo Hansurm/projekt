@@ -1,0 +1,10 @@
+Veebileht tutvustab nelja populaarset youtuberit
+
+Tiimiliikmed: Hans Kristjan Urm, Rain Trubetski
+
+Tiimisisene tööjaotus: mõlemad teevad kaks vahelehte kahe youtuberi kohta
+	main page'i teevad mõlemad
+
+Senised raskused:
+	teema valimine
+	git'i kasutamisega harjumine 
