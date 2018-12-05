@@ -1,11 +1,14 @@
-Veebileht tutvustab nelja populaarset youtuberit
+Meie veebileht on lühike tutvustus meelelahutus keskkonnas YouTube, neile vähestele, kes sellega veel kursis ei ole. Samuti tutvustame omal valikul kahte kuulsat YouTube'i kanalit ning räägime täpsemalt nende tegevusest.
 
-Tiimiliikmed: Hans Kristjan Urm, Rain Trubetski
+Tiimiliikmed: 
+Hans Kristjan Urm 
+Rain Trubetski
 
-Tiimisisene tööjaotus: mõlemad teevad kaks vahelehte kahe youtuberi kohta
-	main page'i teevad mõlemad
+Tiimisisene tööjaotus: 
+Mõlemad tiimiliikmed lõid ühe vahelehe ning panustasid avalehe koostamisele.
 
-Senised raskused:
-	teema valimine
-	git'i kasutama Õppimine
-	git'i kasutamisega harjumine 
+Mis raskused esinesid ja mida õppisime: 
+Hans Kristjan Urm : Suurimaks raskuseks osutus esmalt githubi kasutama õppimine ning seejärel CSS'ist arusaamine, samuti ei saanud algselt tööle YouTube videosi oma veebilehel. Töö käigus õppisingi, kuidas töötab HTML ja CSS, sest ei olnud varasemalt kokku puutunud kummagagi ning natukene uurisin ning õppisin kuidas töötab javascript.
+
+
+Rain Trubetski: Kõige raskemaks osaks oli CSS'i mõistmine ja implementeerimine, eriti videote ja piltide koha pealt. Samamoodi ei saanud ma alguses Youtube'i videoid tööle. Õppisin kuidas luua basic veebilehte HTML'i ja CSS'i kasutades, sest ei olnud ka varem kokku puutunud asjaga.
