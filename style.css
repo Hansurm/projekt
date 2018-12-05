@@ -53,6 +53,10 @@
 	body{
 		background-color: gray;
 	}
+	.right{
+		position: absolute;
+		right: 5px;
+	}
 	.image {
 	  background-image: url("dude.jpg");
 	  background-size: cover;
